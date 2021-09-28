@@ -1,0 +1,8 @@
+{
+    "file-system-id": "fs-463b39f2",
+    "newFileSystem": "true",
+    "Encrypted": "true",
+    "KmsKeyId": "b584808f-5e54-4614-9a9d-f9288b82eed1",
+    "CreationToken": "10",
+    "PerformanceMode": "generalPurpose"
+}
